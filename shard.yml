@@ -1,0 +1,9 @@
+name: quartz
+version: 0.1.0
+
+authors:
+  - Sam <sam@dirkback.com>
+
+crystal: 0.22.0
+
+license: MIT
